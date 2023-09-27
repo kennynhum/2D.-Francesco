@@ -1,0 +1,16 @@
+.container {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.image-container {
+	margin-top: 20px;
+}
+
+.image-container img {
+	width: 300px;
+	margin: 10px;
+	border: 1px solid #1aecc9;
+	border-radius: 5px;
+}
